@@ -2,6 +2,8 @@
 
 Jupyter notebooks for use in an introduction to machine learning course or talk.
 
+Originally developed for a Girl Develop It Philadelphia class in 2015 with [Ani Vemprala](https://github.com/aniv) and [Michael Becker](https://github.com/mdbecker).
+
 ## Recommended Order
 
 It is (loosely) recommended that you work through the notebooks in the following order:
